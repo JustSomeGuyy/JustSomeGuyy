@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=C3B1E1&text=Hello&reversal=true&textBg=false&fontColor=ffffff&animation=fadeIn)
 ```yaml
 name: "Tyler Wolfe"
-located_in: "Winnipeg, Manitoba"
-current_job: "Looking for work"
+located_in: "Calgary, Alberta"
+current_job: "Freelance Developer"
 education:
 [
 "Self-Taught Developer and Designer",
@@ -18,9 +18,9 @@ fields_of_interests:
   "Machine Learning"
 ]
 
-currently_learning: ["Python, Docker, and SQL"]
-2025 Goals: ["Create 10+ projects along with 5 new technologies."]
-hobbies: ["Gaming - Soulsborne Series", "Downhill mountain biking", "Art"]
+currently_learning: ["Swift", "iOS design and development", "fintech security"]
+2027 Goals: ["Launch my first app on the Apple App Store"]
+hobbies: ["Gaming - Soulsborne Series", "Downhill mountain biking", "Music"]
 
 ```
 ## What I Use and Learned So Far
